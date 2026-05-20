@@ -1,3 +1,4 @@
+package SearchingSorting;
 import java.util.*;
 
 public class WeirdAlgorithm
